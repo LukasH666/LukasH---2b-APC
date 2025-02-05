@@ -86,5 +86,7 @@ Hier ein Screenshot meiner Anwendung:
 ![Output der Anwendung](Screenshot_VSC.png)
 
 ----------------------------------------------------------------------------
+## Lizenz
 
+https://choosealicense.com/licenses/mit/
 
