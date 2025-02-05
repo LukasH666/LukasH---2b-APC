@@ -88,5 +88,5 @@ Hier ein Screenshot meiner Anwendung:
 ----------------------------------------------------------------------------
 ## Lizenz
 
-(https://choosealicense.com/licenses/mit/ "MIT")
+[MIT](https://choosealicense.com/licenses/mit/)
 
