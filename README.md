@@ -11,6 +11,4 @@ Dieses Projekt ist eine einfache JAVA-Anwendung, die im Rahmen einer Übung entw
 
 Um dieses Projekt lokal zu installieren und auszuführen, folge diesen Schritten:
 
-1. **Klonen des Repositories**:
-   ```bash
-   git clone https://github.com/LukasH666/LukasH---2b-APC-.git
+
